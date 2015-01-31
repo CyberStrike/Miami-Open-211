@@ -3,7 +3,7 @@ To convert a file
 
 ```bash
 
-ruby jsonconvert.rb './source.filetype' './output.filetype'
+ruby csvtojson.rb './source.filetype' './output.filetype'
 
 ```
 
